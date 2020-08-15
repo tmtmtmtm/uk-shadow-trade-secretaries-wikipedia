@@ -4,10 +4,33 @@
       "value": "Q391169",
       "label": "Barry Gardiner"
     },
+    "replacedBy": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
     "start": {
       "value": "2016-07-20T00:00:00Z",
       "precision": "11"
     },
+    "end": {
+      "value": "2020-04-05T00:00:00Z",
+      "precision": "11"
+    },
     "statement": "Q391169$50C861EC-7197-4C31-B95D-6169D907C16D"
+  },
+  {
+    "item": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "replaces": {
+      "value": "Q391169",
+      "label": "Barry Gardiner"
+    },
+    "start": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272408$A995855F-263B-4F8A-8796-073FCDA80670"
   }
 ]
